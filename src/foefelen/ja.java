@@ -10,5 +10,5 @@ package foefelen;
  * @author vasco
  */
 public class ja {
-    
+    int Robin = 420;
 }
