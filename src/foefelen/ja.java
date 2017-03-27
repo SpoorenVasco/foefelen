@@ -15,4 +15,5 @@ public class ja {
     int Timon = -1;
     int mss = -69;
     int Vasco = 69;
+    String ej = "error";
 }
