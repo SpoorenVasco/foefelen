@@ -13,4 +13,5 @@ public class ja {
     int Robin = 420;
     int Vasco = 69;
     int Gust = 6;
+    String Timon = "Cyka Blyat";
 }
