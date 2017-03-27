@@ -11,6 +11,9 @@ package foefelen;
  */
 public class ja {
     int Robin = 420;
-    int Gust = 20;
+    int Gust = 6;
     int Timon = -1;
+    int mss = -69;
+    int Vasco = 69;
+    String ej = "error";
 }
