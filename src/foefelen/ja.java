@@ -14,4 +14,5 @@ public class ja {
     int Gust = 6;
     int Timon = -1;
     
+    int Vasco = 69;
 }
