@@ -11,4 +11,5 @@ package foefelen;
  */
 public class ja {
     int Robin = 420;
+    int Vasco = 69;
 }
