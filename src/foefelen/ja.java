@@ -11,6 +11,7 @@ package foefelen;
  */
 public class ja {
     int Robin = 420;
-    int Gust = 20;
+    int Gust = 6;
     int Timon = -1;
+    
 }
